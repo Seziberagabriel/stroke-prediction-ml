@@ -18,18 +18,15 @@ The dataset is included in the `data/` folder for reproducibility. It is publicl
 ## Repository Structure
 
 stroke-risk-prediction/
-│
-├── data/
-│   └── healthcare-dataset-stroke-data.csv   
-│
-├── stroke_prediction_project_final.ipynb      
+├──  healthcare-dataset-stroke-data.csv   
+├── stroke_prediction_notebook.ipynb      
 ├── experiment_results.csv                     
 ├── README.md                                  
 └── requirements.txt                           
 
 ## Author
 *TUYISINGIZE SEZIBERA Gabriel*  
-*Machine Learning Module — Final Summative Project*  
-*ALU — 2026*
+*Machine Learning Module Final Summative Project*  
+*ALU 2026*
 
 
